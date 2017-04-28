@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+    
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+  <title>Tank Man, Reconstructed</title>
+    
+     <style>
+         
+    body {
+            background-image: url("https://andotheridiots.files.wordpress.com/2015/09/blankwall2.jpg");
+            background-color: #cccccc;
+};
+
+        
+    .draggable { 
+            width: 150px; 
+          height: 150px; 
+          padding: 0.5em; 
+          background-color: transparent;
+          border-color: transparent;
+          display: inline;
+      };
+
+      #droppable { 
+          height: 140px; 
+          border: black 1px solid;
+      };
+
+      
+    </style>
+ 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+   
+    </head>
+<body> 
+    
+    
+    
+    <div id="div1">
+        <p style=" text-align: center; font-size: 2em; color: black; font-family: 'Fjalla One', sans-serif;"> TANK MAN RECONFIGURED
+        </p>
+        <img style="margin-left:auto;
+            margin-right: auto;
+            display: block;" src="http://imgur.com/fxEoGLm.png" width="50%" height="40%">
+        
+    </div>
+    
+     <section style="padding-top:5%; float: left" class="draggable" class="ui-widget-content">
+    <img src="http://i.imgur.com/RWdfFRO.png" ondragstart="drag(event)" width="27"  height="60" draggable = "true"> 
+    </section>
+    
+    <button style="margin-top:1%; margin-left:auto;
+            margin-right: auto;
+            display: block; font-family: 'Fjalla One'" id="tankButton"> Tank Man Generator </button>
+    
+   
+
+    <script>
+                 
+        $( function() {
+        $( ".draggable" ).draggable();
+            });    
+    
+        
+        $(document).ready(function(){
+    $("button").click(function(){
+
+ var element=$("section:first").clone().addClass('drag(event)');       
+$("body").append(element);
+element.draggable();
+ });
+   
+        });
+        
+    </script>
+    
+
+</body>    
+    
+</html>
