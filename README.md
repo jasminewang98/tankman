@@ -93,3 +93,8 @@ liberal democracy. Chicago: U of Chicago Press, 2011. Print.
 Hillenbrand, Margaret. Remaking Tank Man, in China. Journal of Visual Culture (2016). Web.
 Hubbert, Jennifer. "Appropriating Iconicity: Why Tank Man Still Matters." Visual Anthropology
 Review 30.2 (2014): 114-26. Web.
+
+![Unmediated image](tankman/Screen Shot 2017-05-19 at 10.22.00 AM.png "Unmediated Image")
+![Mediated image](tankman/Screen Shot 2017-05-19 at 10.23.53 AM.png "Mediated Image")
+
+
