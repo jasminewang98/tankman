@@ -1,5 +1,12 @@
 # tankman
-a class project about digimodernism: what happens when the public can interfere with iconic images?
+a class project about digimodernism: what happens when the public can interfere with iconic images? essay below the demo images.
+
+UNMEDIATED IMAGE
+![Unmediated image](https://cloud.githubusercontent.com/assets/23648072/26565036/a480ae8a-44b5-11e7-93d0-43a6281ca548.png)
+
+MEDIATED IMAGE, ZOOMED
+![Mediated image up close](https://cloud.githubusercontent.com/assets/23648072/26565037/a70866a2-44b5-11e7-8b83-bb5a28fd298d.png)
+
 
 My original motivation for this work emerged from my fascination with activism and the
 narratives that activists fight for. My father held a brief tenure as a student activist; Tiananmen
@@ -94,10 +101,5 @@ Hillenbrand, Margaret. Remaking Tank Man, in China. Journal of Visual Culture (2
 Hubbert, Jennifer. "Appropriating Iconicity: Why Tank Man Still Matters." Visual Anthropology
 Review 30.2 (2014): 114-26. Web.
 
-UNMEDIATED IMAGE
-![Unmediated image](https://cloud.githubusercontent.com/assets/23648072/26565036/a480ae8a-44b5-11e7-93d0-43a6281ca548.png)
-
-MEDIATED IMAGE, ZOOMED
-![Mediated image up close](https://cloud.githubusercontent.com/assets/23648072/26565037/a70866a2-44b5-11e7-8b83-bb5a28fd298d.png)
 
 
